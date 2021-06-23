@@ -1,0 +1,22 @@
+#HomeList {
+    width: 80%;
+    padding-left: 20vw;
+    list-style-type: none;
+}
+
+#HomeList li {
+    list-style-type: none;
+}
+
+#li span {
+    padding: 5px;
+}
+
+p {
+    margin: 0;
+    width: 20%;
+}
+
+.li a :hover {
+    text-decoration: none;
+}
